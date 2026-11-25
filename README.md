@@ -1,7 +1,9 @@
 # heartdisease-cardiotree-classifier
 Machine Learning in the Healthcare Field
 
-# Machine Learning
+# Machine Learning & Data Analysis
+heart disease prediction analysis
+
 # Project 
 - Shows the dataframe after being label encoded and one hot encoded.
 - Uses at least two parameters when in creating a Decision Tree.
