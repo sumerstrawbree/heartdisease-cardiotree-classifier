@@ -1,8 +1,10 @@
 # heartdisease-cardiotree-classifier
 Machine Learning in the Healthcare Field
 
-# Machine Learning & Data Analysis
-heart disease prediction analysis
+# About
+- dataset predicting the likelihood of heart disease.
+- learning the ifferent factors that affect the outcome of a Decision Tree
+- how bias can make its way into Machine Learning algorithms
 
 # Project 
 - Shows the dataframe after being label encoded and one hot encoded.
